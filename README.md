@@ -31,3 +31,8 @@ File README.md berhasil dibuat .
 ![iii](https://user-images.githubusercontent.com/56242226/67249568-56318800-f492-11e9-857d-a8c8d79c759c.png)
 11. Kemudian masukan file yang baru dibuat dengan mengetik perintah "git add" 
 ![kk](https://user-images.githubusercontent.com/56242226/67249697-cb04c200-f492-11e9-8660-94701faff2fc.png)
+
+12. Untuk menyimpan perubahan databaserepository local gunakan perintah (git commit -m "file kedua saya") 
+soalnya kalo file pertama gagal mulu ...
+
+![asa](https://user-images.githubusercontent.com/56242226/67250459-b4139f00-f495-11e9-9e23-646727b10dca.png)
