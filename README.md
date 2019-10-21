@@ -17,3 +17,17 @@
 •	Konfigurasi user.name dan user.email
 •	Konfigurasi ini bisa di lakukan untuk global repository atau individual repository
 ![image](https://user-images.githubusercontent.com/56242226/67059992-6ccf9a80-f185-11e9-8b6c-883ac1c7d402.png)
+8. Buat directoryproject praktikum dengan nama "Latihan1" dengan Ketik perintah 
+(mkdir Latihan1) dan
+(Cd Latihan1)
+![g](https://user-images.githubusercontent.com/56242226/67248858-eae6b680-f48f-11e9-8f53-b45ad93d1229.png)
+![h](https://user-images.githubusercontent.com/56242226/67248909-0ea9fc80-f490-11e9-9ccf-1284f3dc5a0e.png)
+9. Lalu kita membuat repository local dengan ketik "git init"
+![hh](https://user-images.githubusercontent.com/56242226/67249279-58dfad80-f491-11e9-9278-ea2e2cf68af9.png)
+10. Setelah itu, kita membuat satu file bernama README.md(text file) dengan mengetik (echo "#Latihan1" >> README.md)
+
+![ii](https://user-images.githubusercontent.com/56242226/67249458-f2a75a80-f491-11e9-99a7-64a49acaaf13.png)
+File README.md berhasil dibuat .
+![iii](https://user-images.githubusercontent.com/56242226/67249568-56318800-f492-11e9-857d-a8c8d79c759c.png)
+11. Kemudian masukan file yang baru dibuat dengan mengetik perintah "git add" 
+![kk](https://user-images.githubusercontent.com/56242226/67249697-cb04c200-f492-11e9-8660-94701faff2fc.png)
