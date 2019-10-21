@@ -33,6 +33,14 @@ File README.md berhasil dibuat .
 ![kk](https://user-images.githubusercontent.com/56242226/67249697-cb04c200-f492-11e9-8660-94701faff2fc.png)
 
 12. Untuk menyimpan perubahan databaserepository local gunakan perintah (git commit -m "file kedua saya") 
-soalnya kalo file pertama gagal mulu ...
+soalnya kalo file pertama gagal mulu.
 
 ![asa](https://user-images.githubusercontent.com/56242226/67250459-b4139f00-f495-11e9-9e23-646727b10dca.png)
+
+13. Membuat repository server 
+-Server reopsitory yang akan kita gunakan adalah http://github.com
+-Anda harus membuat akun terlebih dahulu. 
+-Pada laman github, klik tombol start a project, atau
+-Dari menu (icon +) klik New Repository
+![01](https://user-images.githubusercontent.com/56242226/67250676-8418cb80-f496-11e9-88d2-06a3061be6a6.png)
+
